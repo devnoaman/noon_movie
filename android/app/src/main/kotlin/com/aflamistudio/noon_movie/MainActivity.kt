@@ -1,4 +1,4 @@
-package com.aflamistudio.aflami
+package com.aflamistudio.noon_movie
 
 import io.flutter.embedding.android.FlutterActivity
 
